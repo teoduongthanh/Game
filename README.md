@@ -1,2 +1,2 @@
 # Game
-Sử dụng unity để viết
+Sử dụng công cụ Unity và ngôn ngữ C# để phát triển
